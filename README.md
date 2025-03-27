@@ -14,7 +14,7 @@ The dashboard includes **city-wise, product-wise sales insights, top-performing 
 ![Dashboard](sales_dashboard.png)  
 
 ## 📂 File Details  
-- `Sales_Analysis_Dashboard.xlsx` → **Excel file containing the analysis & dashboard**  
+- `SALES_DATA_ANALYSIS(Dashboard).xlsx` → **Excel file containing the analysis & dashboard**  
 
 ## 🚀 How to Use?  
 1. **Download the Excel file** from this repository.  
