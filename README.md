@@ -11,7 +11,7 @@ The dashboard includes **city-wise, product-wise sales insights, top-performing 
 - **Top 20% Customers generate 80% of revenue (Pareto Principle)**  
 
 ## 📊 Dashboard Preview  
-![Dashboard](sales_data_dashboard.jpg)  
+![Dashboard](sales_dashboard.png)  
 
 ## 📂 File Details  
 - `Sales_Analysis_Dashboard.xlsx` → **Excel file containing the analysis & dashboard**  
